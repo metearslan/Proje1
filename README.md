@@ -1,2 +1,2 @@
 # Proje1
-Deneme 
+Ilk Deneme 
